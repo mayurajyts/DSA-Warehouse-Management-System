@@ -1,0 +1,34 @@
+﻿  Buyers_List.cpp
+D:\00 Academics 2nd year\Academics 3rd Semester\Done\EE 3351 Data Strucures & Algorithms\project warehouse\DSA Warehouse Management System\DSA Warehouse Management System\Buyers_List.h(85,21): warning C4129: ' ': unrecognized character escape sequence
+  (compiling source file 'Buyers_List.cpp')
+  
+D:\00 Academics 2nd year\Academics 3rd Semester\Done\EE 3351 Data Strucures & Algorithms\project warehouse\DSA Warehouse Management System\DSA Warehouse Management System\Buyers_List.h(104,21): warning C4129: ' ': unrecognized character escape sequence
+  (compiling source file 'Buyers_List.cpp')
+  
+D:\00 Academics 2nd year\Academics 3rd Semester\Done\EE 3351 Data Strucures & Algorithms\project warehouse\DSA Warehouse Management System\DSA Warehouse Management System\Buyers_List.h(108,22): warning C4553: '==': result of expression not used; did you intend '='?
+  (compiling source file 'Buyers_List.cpp')
+  
+  DSA Warehouse Management System.cpp
+D:\00 Academics 2nd year\Academics 3rd Semester\Done\EE 3351 Data Strucures & Algorithms\project warehouse\DSA Warehouse Management System\DSA Warehouse Management System\Buyers_List.h(85,21): warning C4129: ' ': unrecognized character escape sequence
+  (compiling source file 'DSA%20Warehouse%20Management%20System.cpp')
+  
+D:\00 Academics 2nd year\Academics 3rd Semester\Done\EE 3351 Data Strucures & Algorithms\project warehouse\DSA Warehouse Management System\DSA Warehouse Management System\Buyers_List.h(104,21): warning C4129: ' ': unrecognized character escape sequence
+  (compiling source file 'DSA%20Warehouse%20Management%20System.cpp')
+  
+D:\00 Academics 2nd year\Academics 3rd Semester\Done\EE 3351 Data Strucures & Algorithms\project warehouse\DSA Warehouse Management System\DSA Warehouse Management System\Buyers_List.h(108,22): warning C4553: '==': result of expression not used; did you intend '='?
+  (compiling source file 'DSA%20Warehouse%20Management%20System.cpp')
+  
+D:\00 Academics 2nd year\Academics 3rd Semester\Done\EE 3351 Data Strucures & Algorithms\project warehouse\DSA Warehouse Management System\DSA Warehouse Management System\item.h(50,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'DSA%20Warehouse%20Management%20System.cpp')
+  
+D:\00 Academics 2nd year\Academics 3rd Semester\Done\EE 3351 Data Strucures & Algorithms\project warehouse\DSA Warehouse Management System\DSA Warehouse Management System\item.h(269,44): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'DSA%20Warehouse%20Management%20System.cpp')
+  
+D:\00 Academics 2nd year\Academics 3rd Semester\Done\EE 3351 Data Strucures & Algorithms\project warehouse\DSA Warehouse Management System\DSA Warehouse Management System\item.h(272,40): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'DSA%20Warehouse%20Management%20System.cpp')
+  
+D:\00 Academics 2nd year\Academics 3rd Semester\Done\EE 3351 Data Strucures & Algorithms\project warehouse\DSA Warehouse Management System\DSA Warehouse Management System\item.h(393,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'DSA%20Warehouse%20Management%20System.cpp')
+  
+  Generating Code...
+  DSA Warehouse Management System.vcxproj -> D:\00 Academics 2nd year\Academics 3rd Semester\Done\EE 3351 Data Strucures & Algorithms\project warehouse\DSA Warehouse Management System\x64\Debug\DSA Warehouse Management System.exe
